@@ -1,0 +1,21 @@
+# valor
+4
+5
+
+
+# expressoes unarias
+-3
+"casa"
+not true
+length "abcde"
+
+
+# expressoes binarias
+3 + 2
+length "abcde" + 2
+3 - 2
+length "abcde" - 3
+true and false
+false or true
+"abc" == "abc"
+"abc" ++ "def"
